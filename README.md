@@ -66,18 +66,22 @@ AWS VPC | EC2 | Linux | WordPress | MySQL | Networking | SSH
 ### WordPress Setup
 ![WordPress](image-1.png)
 
-### MySQL Database Setup
 ![MySQL](image-2.png)
 
 ### EC2 Instances
-![EC2](image-3.png)
+![alt text](<Screenshot 2026-03-25 161138.png>)
 
 ### Security Groups
-![Security Groups](image-4.png)
+![EC2](image-3.png)
+
 
 ### Additional Screenshots
+![Security Groups](image-4.png)
+![EC2](image-3.png)
 ![Screenshot](image-5.png)
 ![Screenshot](image-6.png)
+
+### MySQL Database Setup
 ![Screenshot](image-7.png)
 ![Screenshot](image-8.png)
 ![Screenshot](image-9.png)
