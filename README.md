@@ -69,7 +69,7 @@ AWS VPC | EC2 | Linux | WordPress | MySQL | Networking | SSH
 ![MySQL](image-2.png)
 
 ### EC2 Instances
-![alt text](<Screenshot 2026-03-25 161138.png>)
+![alt text](<WhatsApp Image 2026-03-26 at 21.18.31-1.jpeg>)
 
 ### Security Groups
 ![EC2](image-3.png)
