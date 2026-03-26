@@ -70,7 +70,7 @@ AWS VPC | EC2 | Linux | WordPress | MySQL | Networking | SSH
 ![MySQL](image-2.png)
 
 ### EC2 Instances
-![EC2 Instance](ec2-instance.jpeg)
+![EC2 Instance](ec2-instance.png)
 
 ### Security Groups
 ![Security Groups](image-3.png)
